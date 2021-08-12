@@ -26,7 +26,7 @@
 I'm passionate Computer Programmer And Web devolper with strong hands on data structure and algorithms
 
 - I’m currently working on [Web Technologies])
-- I’m  proficient in Data structure and algorithms
+- I’m  Good in Data structure and algorithms
 - I’m Also Doing Competitve Programming
 - Love to learn new stuffs
 
