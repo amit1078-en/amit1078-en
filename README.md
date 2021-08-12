@@ -1,12 +1,8 @@
-## Hi, I'm [Aditya Birangal](https://birangal.com) 👋
-<b>Lover of Technology ⚡ | App Developer 📱 | DSC Lead ✨ | Flutter 💙 | Firebase 🔥</b>
+## Hi, I'm Amit Kumar
+<b>Web Developer And a Competitive Programmer</b>
 
-<a href="https://birangal.com">
-  <img align="left" alt="Aditya Birangal's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/safari.svg" />
-</a>
-
-<a href="https://linkedin.com/in/AdityaBirangal">
-  <img align="left" alt="Aditya Birangal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/amit-kumar-05a9291aa/">
+  <img align="left" alt="Amit Kumar Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/AdityaBirangal">
