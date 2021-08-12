@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://leetcode.com/Amit279/">
-  <img align="left" alt="Amit Kumar Leetcode" width="22px" src="https://leetcode.com/static/images/LeetCode_Sharing.png" />
+  <img align="left" alt="Amit Kumar Leetcode" width="30px" src="https://leetcode.com/static/images/LeetCode_Sharing.png" />
 </a>
 
 
