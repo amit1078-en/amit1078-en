@@ -24,18 +24,11 @@
 <br/>
 
 I'm passionate Computer Programmer And Web devolper with strong hands on data structure and algorithms
-<b>#SelfTaught</b> Developer and Competitive Programmmer</b>.
 
-<img align ="right" src = "https://github.com/AdityaBirangal/AdityaBirangal/blob/master/megacat.png" width="250" height="250">
-
-- 🔭 I’m currently working on [AdiClass App](https://adiclass.birangal.com)
-- 🌱 I’m currently learning Google Cloud
-- 👯 I’m looking to collaborate on [Champool App](https://github.com/AdityaBirangal/champool)
-- 🤔 I’m looking for help with Firebase
-- 💬 Ask me about Flutter | Firebase & any Tech Stuff
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I need Music 🎵 while Coding...
-- 🇮🇳 Proudly Indian
+- I’m currently working on [Web Technologies])
+- I’m  proficient in Data structure and algorithms
+- I’m Also Doing Competitve Programming
+- Love to learn new stuffs
 
 ### 🛠 Languages and Tools
 
