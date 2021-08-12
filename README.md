@@ -5,31 +5,26 @@
   <img align="left" alt="Amit Kumar Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/AdityaBirangal">
-  <img align="left" alt="Aditya Birangal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 
-<a href="https://instagram.com/Aditya.Birangal">
-  <img align="left" alt="Aditya Birangal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+<a href="https://www.instagram.com/__amit107__/">
+  <img align="left" alt="Amit Kumar Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <a href="https://www.facebook.com/AdityaBirangal">
-  <img align="left" alt="Aditya Birangal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Amit Kumar Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<a href="https://stackoverflow.com/users/13450398/aditya-birangal">
-  <img align="left" alt="Aditya Birangal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
 
-<a href="mailto:aditya@birangal.com">
-  <img align="left" alt="Aditya Birangal's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:amitkumar908616@gmail.com">
+  <img align="left" alt="Amit kumar Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br/>
 <br/>
 
-I'm extremely passionate about Technology.
-<b>#SelfTaught</b> Developer and makes <b>Android, iOS & Web </b>Apps.
+I'm passionate Computer Programmer And Web devolper with strong hands on data strcuture and algorithms
+<b>#SelfTaught</b> Developer and Competitive Programmmer</b>.
 I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</b> new <b>Tech</b> stuff...
 
 <img align ="right" src = "https://github.com/AdityaBirangal/AdityaBirangal/blob/master/megacat.png" width="250" height="250">
