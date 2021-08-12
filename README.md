@@ -11,8 +11,8 @@
   <img align="left" alt="Amit Kumar Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://www.facebook.com/AdityaBirangal">
-  <img align="left" alt="Amit Kumar Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://leetcode.com/Amit279/">
+  <img align="left" alt="Amit Kumar Leetcode" width="22px" src="https://leetcode.com/static/images/LeetCode_Sharing.png" />
 </a>
 
 
