@@ -30,7 +30,7 @@ I'm passionate Computer Programmer And Web devolper with strong hands on data st
 - I’m Also Doing Competitve Programming
 - Love to learn new stuffs
 
-### 🛠 Languages and Tools
+### 🛠 Languages and Tools I Know
 
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png">&nbsp;
@@ -41,7 +41,7 @@ I'm passionate Computer Programmer And Web devolper with strong hands on data st
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">&nbsp;
 
-### 🛠  My Programming Potral Links
+### 💻  My Programming Potral Links
 <ul>
   <li> <a href="https://leetcode.com/Amit279/">LEETCODE</a></li>
   <li> <a href="https://www.codechef.com/users/madboy_amit">CODECHEF</a></li>
