@@ -23,9 +23,8 @@
 <br/>
 <br/>
 
-I'm passionate Computer Programmer And Web devolper with strong hands on data strcuture and algorithms
+I'm passionate Computer Programmer And Web devolper with strong hands on data structure and algorithms
 <b>#SelfTaught</b> Developer and Competitive Programmmer</b>.
-I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</b> new <b>Tech</b> stuff...
 
 <img align ="right" src = "https://github.com/AdityaBirangal/AdityaBirangal/blob/master/megacat.png" width="250" height="250">
 
@@ -56,18 +55,3 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">&nbsp;
 
 
-
-<!-- ### Lang
-![Aditya Birangal's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBirangal&layout=compact&theme=radical&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) -->
-
-### 🎯 Github Streak Stats
-![Aditya Birangal's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AdityaBirangal&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-
-### ⚙️ GitHub Analytics
-![Aditya Birangal's Github Stats](https://github-readme-stats.vercel.app/api?username=AdityaBirangal&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-
-
- <p align="center"> 
-  Visitors Count<br>
-  <img src="https://profile-counter.glitch.me/AdityaBirangal/count.svg" />
-</p>
