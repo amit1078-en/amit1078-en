@@ -7,7 +7,7 @@
 
 
 
-<a href="https://www.instagram.com/__amit107__">
+<a href="https://www.instagram.com/_amit_107/">
   <img align="left" alt="Amit Kumar Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
